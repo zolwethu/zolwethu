@@ -1,44 +1,62 @@
-## Hi there 👋
+# Hi, I'm Sibusiso Zitha
 
-Hey there! I'm Sibusiso Zitha 👨‍💻🚀
+I'm an **IT graduate** building my career in software development and engineering.
 
-I'm a software developer who just embarked on my professional journey, having recently secured my very first internship! As a recent graduate, I'm eager to apply the knowledge I’ve built during my studies while diving deep into the real-world challenges of coding, debugging, and building scalable solutions.
+I have professional experience in the banking environment, having worked in **Performance Testing and QA at FNB**. I gained hands-on experience with APIs, SQL, Java, CI/CD, Agile/Scrum, JMeter, and working closely with developers and technical teams.
 
+I'm now focused on growing as a **software developer**, strengthening my programming skills and building practical projects.
 
-💡 What drives me?
+## Interests
 
-I’m all about solving problems through code, whether it's creating user-friendly web applications, diving into algorithms, or optimizing performance. I love exploring new technologies and thinking outside the box to craft intuitive, impactful software.
+* Software Development
+* Backend Development & APIs
+* Automation & Testing
+* Databases & SQL
+* Cloud & DevOps
+* Problem Solving
 
-🛠️ Tech Stack & Tools I’m Working With:
+## Technologies
 
+**Languages:** Java, JavaScript, Python, C++, C#
 
-Languages: [JavaScript, Python, Java, C++] (and counting!)
+**Web & Backend:** HTML, CSS, Node.js, Express, React
 
-Web Development: [React, Node.js, Express, HTML, CSS]
+**Databases:** MySQL, Firebase
 
-Databases: [MySQL, MongoDB, Firebase]
+**Testing:** Postman, JMeter, Selenium
 
-Dev Tools: Git, GitHub, Visual Studio Code, Docker, Postman
+**Cloud & Tools:** AWS, Git, GitHub, Docker, Jenkins, Bitbucket, VS Code
 
-🌱 Currently learning & exploring:
+## Experience
 
-[Machine learning concepts, Cyber, Cloud infrastructure (AWS), React Native, DevOps practices]
+### FNB — Performance Testing & QA
 
-New frameworks & best practices to make apps more performant and scalable.
+* API and integration testing
+* SQL and database validation
+* Performance and load testing
+* JMeter
+* CI/CD with Jenkins and Bitbucket
+* Agile/Scrum environments
+* Troubleshooting and system analysis
 
-🧑‍💻 My Internship Journey:
+### AWS DeepRacer
 
-I’m currently refining my skills on a real-world software development project as part of my internship—working alongside talented developers and learning how to tackle challenges in a collaborative environment. It’s been an exciting experience to apply my theoretical knowledge and learn from hands-on coding and agile workflows.
+Explored **machine learning and reinforcement learning**, training autonomous driving models as part of an AWS DeepRacer programme.
 
+## Currently Learning
 
-📍 Let’s Connect!🤠
+* Backend development
+* REST APIs
+* Cloud & DevOps
+* Automation
+* Software architecture
 
-I’m always looking to connect with other developers, collaborate on cool projects, or chat about the latest tech trends. Reach out to me at:
+I enjoy learning how systems work, solving problems and turning what I learn into practical projects.
 
+## Let's Connect
 
+I'm open to connecting with developers, collaborating on projects and learning from others in the tech community.
 
-📧 [zithasbu621@gmail.com]
+**LinkedIn:** https://www.linkedin.com/in/sibusiso-zitha-bab3681a3
 
-🔗 [https://www.linkedin.com/in/sibusiso-zitha-bab3681a3/]
-
-🌐 [https://zolwethu.github.io/Zitha-Sibusiso-PerPortfolio/]
+**Email:** Zithasbu621@gmail.com 
